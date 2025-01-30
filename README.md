@@ -1,5 +1,4 @@
-*** Oyuna ait datalar Firebase'den çekilmektedir. data.js dosyası githuba açık olarak eklenmemiştir.***
-
+*** The data for the application is pulled from Firebase. The data.js file has not been added publicly to github.***
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
